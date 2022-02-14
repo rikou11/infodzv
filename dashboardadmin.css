@@ -1,0 +1,9 @@
+.table-hover thead tr:hover th,
+.table-hover tbody tr:hover td {
+  background-color: #9ef6b17a;
+}
+
+body {
+  margin: auto;
+  padding: auto;
+}
